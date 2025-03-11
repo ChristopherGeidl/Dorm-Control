@@ -1,0 +1,23 @@
+{
+    "death": {
+        "status": "off"
+    },
+    "light": {
+        "status": "off",
+        "color": [
+            255,
+            0,
+            0
+        ],
+        "brightness": 100,
+        "type": "static"
+    },
+    "thermostat": {
+        "temperature": 21.3,
+        "max_temperature": 23,
+        "min_temperature": 19,
+        "fan_status": "off",
+        "window_status": "closed",
+        "humidity": 43.5
+    }
+}
